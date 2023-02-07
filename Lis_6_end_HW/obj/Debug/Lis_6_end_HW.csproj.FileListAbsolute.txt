@@ -1,0 +1,17 @@
+C:\Users\218 student\source\repos\Lis_6_end_HW\bin\Debug\Lis_6_end_HW.exe.config
+C:\Users\218 student\source\repos\Lis_6_end_HW\bin\Debug\Lis_6_end_HW.exe
+C:\Users\218 student\source\repos\Lis_6_end_HW\bin\Debug\Lis_6_end_HW.pdb
+C:\Users\218 student\source\repos\Lis_6_end_HW\bin\Debug\EntityFramework.dll
+C:\Users\218 student\source\repos\Lis_6_end_HW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\218 student\source\repos\Lis_6_end_HW\bin\Debug\EntityFramework.xml
+C:\Users\218 student\source\repos\Lis_6_end_HW\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\218 student\source\repos\Lis_6_end_HW\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\218 student\source\repos\Lis_6_end_HW\obj\Debug\Lis_6_end_HW.csproj.AssemblyReference.cache
+C:\Users\218 student\source\repos\Lis_6_end_HW\obj\Debug\Lis_6_end_HW.csproj.SuggestedBindingRedirects.cache
+C:\Users\218 student\source\repos\Lis_6_end_HW\obj\Debug\Lis_6_end_HW.Form1.resources
+C:\Users\218 student\source\repos\Lis_6_end_HW\obj\Debug\Lis_6_end_HW.Properties.Resources.resources
+C:\Users\218 student\source\repos\Lis_6_end_HW\obj\Debug\Lis_6_end_HW.csproj.GenerateResource.cache
+C:\Users\218 student\source\repos\Lis_6_end_HW\obj\Debug\Lis_6_end_HW.csproj.CoreCompileInputs.cache
+C:\Users\218 student\source\repos\Lis_6_end_HW\obj\Debug\Lis_6_end_HW.csproj.CopyComplete
+C:\Users\218 student\source\repos\Lis_6_end_HW\obj\Debug\Lis_6_end_HW.exe
+C:\Users\218 student\source\repos\Lis_6_end_HW\obj\Debug\Lis_6_end_HW.pdb

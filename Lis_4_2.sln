@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lis_4_2", "C:\Users\218 student\source\repos\Lis_4_2\Lis_4_2.csproj", "{F1BC3749-A2E9-4A00-81B2-CEBAA0060E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1BC3749-A2E9-4A00-81B2-CEBAA0060E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BC3749-A2E9-4A00-81B2-CEBAA0060E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BC3749-A2E9-4A00-81B2-CEBAA0060E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BC3749-A2E9-4A00-81B2-CEBAA0060E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B243F48-BC5A-4D20-9385-037F2C9102FE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\User\Downloads\LinqTest1\LinqTest1\bin\Debug\LinqTest1.exe.config
+C:\Users\User\Downloads\LinqTest1\LinqTest1\bin\Debug\LinqTest1.exe
+C:\Users\User\Downloads\LinqTest1\LinqTest1\bin\Debug\LinqTest1.pdb
+C:\Users\User\Downloads\LinqTest1\LinqTest1\obj\Debug\LinqTest1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\LinqTest1\LinqTest1\obj\Debug\LinqTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\LinqTest1\LinqTest1\obj\Debug\LinqTest1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\LinqTest1\LinqTest1\obj\Debug\LinqTest1.exe
+C:\Users\User\Downloads\LinqTest1\LinqTest1\obj\Debug\LinqTest1.pdb
